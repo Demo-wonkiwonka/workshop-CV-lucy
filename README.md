@@ -255,35 +255,6 @@ After completing this workshop, participants will understand:
 - Use data augmentation to improve generalization
 - Monitor training progress to avoid overfitting
 
-## 📚 Further Reading
-
-- [PyTorch Documentation](https://pytorch.org/docs/)
-- [HuggingFace Datasets](https://huggingface.co/docs/datasets/)
-- [Computer Vision Papers](https://paperswithcode.com/task/image-classification)
-- [Deep Learning Best Practices](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
-
-## 🤝 Contributing
-
-This workshop is designed to be educational and extensible. Feel free to:
-- Add new model architectures
-- Improve the evaluation metrics
-- Create additional datasets
-- Enhance the visualization tools
-
-## 📄 License
-
-This workshop is provided for educational purposes. Feel free to use and modify for your learning needs.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section
-2. Review the code comments
-3. Experiment with different parameters
-4. Start with the quick demo to ensure everything works
-
----
-
 **Happy Learning! 🎉**
 
 This workshop provides a solid foundation for understanding handwriting recognition and computer vision. Experiment with different models, datasets, and parameters to deepen your understanding!
